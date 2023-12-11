@@ -1,8 +1,26 @@
 * {
-    background-color: #07041e;
+    background-color: #1b232e;
 }
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    color: #e00a24;
+    color: #0bc6ab;
+    text-align: center;
+    font-weight: 800;
+    font-size: 45px;
 }
+
+a {
+    text-decoration: none;
+    color: #0bc6ab;
+    
+    
+}
+
+li {
+    
+    font-weight: 450;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
